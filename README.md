@@ -1,6 +1,6 @@
 # 前提
 - Node.js: v.16
-- 以下作業が完了していること
+- 以下作業が完了していること（詳細は「Teams-GCPコスト情報連携の自動化.pdf」を参照）
   - Cloud BillingデータをBigQueryにエクスポートする
   - BigQueryのスケジュールクエリを作成し、Pub/Subトピックにパブリッシュする
     - スケジュールクエリ：daily_cost_shcedule.sql
